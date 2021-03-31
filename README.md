@@ -1,0 +1,1 @@
+# Virtual-License-Applicator-Permessi
